@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfcf8092-f854-4ef0-8100-1486039c54c2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dfcf8092-f854-4ef0-8100-1486039c54c2" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/itripbiz/target/" />
@@ -44,7 +42,20 @@
     <favorites_list name="itripbackend" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ItripUserController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/itripauth/src/main/java/cn/kgc/itrip/controller/ItripUserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -132,7 +143,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="100" />
     <option name="y" value="20" />
     <option name="width" value="1750" />
@@ -151,6 +162,80 @@
             <path>
               <item name="itripbackend" type="b2602c69:ProjectViewProjectNode" />
               <item name="itripbackend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend" type="462c0819:PsiDirectoryNode" />
+              <item name="itripauth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend" type="462c0819:PsiDirectoryNode" />
+              <item name="itripauth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend" type="462c0819:PsiDirectoryNode" />
+              <item name="itripauth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend" type="462c0819:PsiDirectoryNode" />
+              <item name="itripauth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend" type="462c0819:PsiDirectoryNode" />
+              <item name="itripauth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend" type="462c0819:PsiDirectoryNode" />
+              <item name="itripauth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend" type="462c0819:PsiDirectoryNode" />
+              <item name="itripauth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend" type="462c0819:PsiDirectoryNode" />
+              <item name="itripauth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itripbackend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itripbackend" type="462c0819:PsiDirectoryNode" />
+              <item name="itripauth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -406,7 +491,7 @@
       <workItem from="1535421837823" duration="4763000" />
       <workItem from="1535426689655" duration="3186000" />
       <workItem from="1535429911702" duration="5812000" />
-      <workItem from="1535502553777" duration="14086000" />
+      <workItem from="1535502553777" duration="14110000" />
     </task>
     <servers />
   </component>
@@ -437,7 +522,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42991000" />
+    <option name="totallyTimeSpent" value="43015000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -449,7 +534,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50067025" side_tool="true" weight="0.32894737" />
